@@ -1,6 +1,6 @@
 {
     "name": "Cyfrim List",
-    "logoURI": "https://github.com/Cyfrim/cyfrim-tokenlist/icons/logo.svg",
+    "logoURI": "https://cyfrim.github.io/cyfrim-tokenlist/icons/logo.svg",
     "keywords": [
         "cyfrim",
         "tokens",
@@ -14,7 +14,7 @@
             "name": "Toad",
             "symbol": "TOAD",
             "decimals": 18,
-            "logoURI": "https://github.com/Cyfrim/cyfrim-tokenlist/icons/toad.svg"
+            "logoURI": "https://cyfrim.github.io/cyfrim-tokenlist/icons/toad.svg"
         },
         {
             "address": "0xBe16D00942e5C216b6E049eB54d92bae5Cfbf2FD",
@@ -22,7 +22,7 @@
             "name": "Usdc",
             "symbol": "USDC",
             "decimals": 18,
-            "logoURI": "https://github.com/Cyfrim/cyfrim-tokenlist/icons/usdc.svg"
+            "logoURI": "https://cyfrim.github.io/cyfrim-tokenlist/icons/usdc.svg"
         }
     ],
     "version": {
