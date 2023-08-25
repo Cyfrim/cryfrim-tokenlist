@@ -1,0 +1,33 @@
+{
+    "name": "Cyfrim List",
+    "logoURI": "https://github.com/Cyfrim/cyfrim-tokenlist/icons/logo.svg",
+    "keywords": [
+        "cyfrim",
+        "tokens",
+        "pgn"
+    ],
+    "timestamp": "2021-05-10T00:00:00+00:00",
+    "tokens": [
+        {
+            "address": "0x47B3A4f49cF6231b00f04c9DAecA5cdCC745047A",
+            "chainId": 58008,
+            "name": "Toad",
+            "symbol": "TOAD",
+            "decimals": 18,
+            "logoURI": "https://github.com/Cyfrim/cyfrim-tokenlist/icons/toad.svg"
+        },
+        {
+            "address": "0xBe16D00942e5C216b6E049eB54d92bae5Cfbf2FD",
+            "chainId": 58008,
+            "name": "Usdc",
+            "symbol": "USDC",
+            "decimals": 18,
+            "logoURI": "https://github.com/Cyfrim/cyfrim-tokenlist/icons/usdc.svg"
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
+}
